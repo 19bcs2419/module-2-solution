@@ -1,0 +1,27 @@
+.menu-text {
+    text-align: center;
+}
+.header1{    background-color: grey;
+	    border: 1px black solid;
+
+    height: 105px;
+    margin-bottom: 20px;
+}
+.header-text{
+    font-size: 19px;
+    color: black;
+    border: 1px brown solid;
+    float: right;
+    background-color: #fbd2d9;
+    margin-top: 0px;
+    
+     
+}
+.para{margin-top: 30px;}
+.banner{margin-top: 30px;}
+ @media (min-width: 992px) and (max-width: 1199px){
+ 	.header1{
+ 		width:100%;
+ 		
+ 	}
+ }
